@@ -22,7 +22,7 @@ while (i < array.length){
 
 newArray.push (`${array[i]}!!!`)
 
-i++ /// very important! i increments as code runs after line 20.  
+i++ /// very important! i increments as code runs after line 20.
 
 }
 return newArray
